@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Micheal-McLaughlin
 - 👀 I’m interested in building web & mobile apps
-- 🌱 I’m currently learning to code! 
+- 🌱 I’m currently learning to program! 
 - 📫 How to reach me - [Twitter dms](https://twitter.com/micheal_mcl_)
 
 <!---
